@@ -162,10 +162,4 @@ All analysis, visualizations, and insights are independently performed using pub
 
 Plagiarism is strictly prohibited.  
 
----
 
-## Connect
-
-If you have feedback or suggestions, feel free to **connect** or open an **issue** in this repository!
-
-⭐ If you found this project helpful, consider giving it a star!
