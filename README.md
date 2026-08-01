@@ -25,6 +25,10 @@ Key objectives:
 - Prepare clean dataset for further analysis
 
 ---
+## Power BI Report
+
+![Power BI](/Dashboard/final_preview.png)
+![Power BI](/Dashboard/Preview.png)
 
 ## Tech Stack
 
@@ -32,6 +36,7 @@ Key objectives:
 - Pandas
 - Matplotlib
 - Jupyter Notebook
+- Power BI
 
 ---
 
